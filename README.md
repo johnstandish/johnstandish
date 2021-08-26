@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnstandish.
 - 👀 I’m interested in improving.
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on porjects.
+- 💞️ I’m looking to collaborate on projects.
 - 📫 Reach me at jstandish@outlook.com.
 
 <!---
